@@ -1,0 +1,2 @@
+# 2025573010116_praktikum_Struktur_Data_
+Str
