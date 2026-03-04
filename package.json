@@ -1,0 +1,21 @@
+{
+  "name": "2025573010116_praktikum_struktur_data_",
+  "version": "1.0.0",
+  "description": "Str",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mifonly10-spec/2025573010116_praktikum_Struktur_Data_.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mifonly10-spec/2025573010116_praktikum_Struktur_Data_/issues"
+  },
+  "homepage": "https://github.com/mifonly10-spec/2025573010116_praktikum_Struktur_Data_#readme"
+}
