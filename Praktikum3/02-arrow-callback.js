@@ -60,3 +60,4 @@ prosesKalimat(kalimat, tambahSeru);
 
 console.log("\n=== Uji hitungKata ===");
 prosesKalimat(kalimat, hitungKata);
+
